@@ -1,7 +1,7 @@
 # 放遊戲開發用的素材
 ### Luna!!
 ![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Run_Left.gif)
-![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Left.png)
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/Luna_Left.png)
 ![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/standby.gif)
 ![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Right.png)
 ![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Run_Right.gif)
