@@ -1,7 +1,7 @@
 TERMS OF USE AND LICENSING AGREEMENT
 ========================================================================
 REPOSITORY: GamesDevelop
-OWNER/LICENSOR: YuYue71 (hereinafter referred to as the "Original Author")
+OWNER/LICENSOR: YuYueSama (hereinafter referred to as the "Original Author")
 EFFECTIVE DATE: May 20, 2026
 ========================================================================
 
